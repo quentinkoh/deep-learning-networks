@@ -1,5 +1,5 @@
 # deep-learning-networks
 
-ShallowNet
-LeNet
-MiniVGGNet
+- ShallowNet
+- LeNet
+- MiniVGGNet
